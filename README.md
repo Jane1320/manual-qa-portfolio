@@ -1,6 +1,6 @@
 # Manual QA Portfolio
 
-Hello! I'm Lobley, a Computer Science student learning Manual Software Testing.
+Hello! I'm Lovely Jane Dela Cruz, a Computer Science student learning Manual Software Testing.
 
 This repository contains my QA practice work using a School Enrollment System.
 
