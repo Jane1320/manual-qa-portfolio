@@ -1,22 +1,46 @@
 # 🧪 Manual QA Portfolio
 
-Hello! I’m Lovely Jane 👋, a Computer Science student learning Manual Software Testing.
+Hello! I’m Lobley 👋, a Computer Science student focused on Manual Software Testing.
 
-This repository showcases my QA practice work using a **School Information Management System**, demonstrating my skills in manual testing, bug reporting, and test documentation.
-
----
-
-## 📌 Contents of this Portfolio
-
-- 🧾 Test Cases  
-- 🐞 Bug Reports  
-- 📊 Test Summary Report  
+This repository showcases my QA practice work using a **School Enrollment System**, demonstrating my ability to create test cases, report bugs, and summarize test execution results.
 
 ---
 
-## 🧑‍💻 System Tested
+## 📌 Table of Contents
 
-**South II Student Information System (SSIS)**
+- [📂 Artifacts](#-artifacts)
+- [🧑‍💻 System Info](#-system-info)
+- [⚙️ Tech Stack](#-tech-stack)
+- [🧪 Testing Types](#-testing-types)
+- [🎯 Highlights](#-highlights)
+- [📍 Notes](#-notes)
+
+---
+
+## 📂 Artifacts
+
+You can view the detailed QA documents below:
+
+- 🧾 **Test Cases**  
+  👉 [View Test Cases](https://1drv.ms/x/c/ddd61be02521f64e/IQD-mRwQoScKSI2ufD9a3pyHAZm8dLwcsZlLqAKwk28b-Xo?e=vgvX62)
+
+- 🐞 **Bug Reports**  
+  👉 [View Bug Reports](https://1drv.ms/x/c/ddd61be02521f64e/IQAgUjNx5PR8SYRRqU9iRXw6AQiKTgRFp344AvH2_uhn_gs?e=gdMssE)
+
+- 📊 **Test Summary Report**  
+  👉 [View Test Summary](https://1drv.ms/x/c/ddd61be02521f64e/IQCIrbf2rK9-TIzlbR2hPodBATTXNQ-h8mFAZ5DBeoiclX4?e=cN27IJ)
+
+---
+
+## 🧑‍💻 System Info
+
+**System Tested:**  
+South II Student Information System
+
+**Description:**  
+This is a web-based enrollment system developed for Lucena South II Elementary School. It is used to manage student information, enrollment records, and related administrative tasks.
+
+This system was used as the basis for creating and executing the test cases in this portfolio.
 
 ---
 
@@ -28,7 +52,7 @@ This repository showcases my QA practice work using a **School Information Manag
 
 ---
 
-## 🧪 Testing Types Performed
+## 🧪 Testing Types
 
 - Functional Testing  
 - UI Testing  
@@ -36,22 +60,7 @@ This repository showcases my QA practice work using a **School Information Manag
 
 ---
 
-## 📂 Test Artifacts
-
-🔗 You can view and download the detailed documents below:
-
-- 🧾 **Test Cases:**  
-  [Enrollment-System-Test-Cases](https://1drv.ms/x/c/ddd61be02521f64e/IQD-mRwQoScKSI2ufD9a3pyHAZm8dLwcsZlLqAKwk28b-Xo?e=vgvX62)
-
-- 🐞 **Bug Reports:**  
-  [Bug-Reports](https://1drv.ms/x/c/ddd61be02521f64e/IQAgUjNx5PR8SYRRqU9iRXw6AQiKTgRFp344AvH2_uhn_gs?e=gdMssE)
-
-- 📊 **Test Summary Report:**  
-  [Test-Summary](https://1drv.ms/x/c/ddd61be02521f64e/IQCIrbf2rK9-TIzlbR2hPodBATTXNQ-h8mFAZ5DBeoiclX4?e=cN27IJ)
-
----
-
-## 🎯 Project Highlights
+## 🎯 Highlights
 
 - Designed and executed manual test cases  
 - Identified and documented defects with proper severity and priority  
@@ -61,10 +70,10 @@ This repository showcases my QA practice work using a **School Information Manag
 
 ---
 
-## 📌 Notes
+## 📍 Notes
 
 - This project is part of my QA learning journey and OJT preparation.  
-- All test data and reports are for demonstration and portfolio purposes.  
+- All test artifacts are for portfolio and demonstration purposes.  
 
 ---
 
